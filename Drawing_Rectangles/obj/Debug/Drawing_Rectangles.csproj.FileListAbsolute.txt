@@ -1,0 +1,15 @@
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\obj\Debug\Drawing_Rectangles.csproj.AssemblyReference.cache
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\obj\Debug\MainWindow.g.cs
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\obj\Debug\App.g.cs
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\obj\Debug\Drawing_Rectangles_MarkupCompile.cache
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\obj\Debug\Drawing_Rectangles_MarkupCompile.lref
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\bin\Debug\Drawing_Rectangles.exe.config
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\bin\Debug\Drawing_Rectangles.exe
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\bin\Debug\Drawing_Rectangles.pdb
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\obj\Debug\MainWindow.baml
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\obj\Debug\Drawing_Rectangles.g.resources
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\obj\Debug\Drawing_Rectangles.Properties.Resources.resources
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\obj\Debug\Drawing_Rectangles.csproj.GenerateResource.cache
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\obj\Debug\Drawing_Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\obj\Debug\Drawing_Rectangles.exe
+C:\Users\kfork\OneDrive\Misc\Visual_Studio\Drawing_Rectangles\Drawing_Rectangles\obj\Debug\Drawing_Rectangles.pdb

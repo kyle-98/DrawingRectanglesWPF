@@ -1,0 +1,29 @@
+﻿<Window x:Class="Drawing_Rectangles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Drawing_Rectangles"
+        mc:Ignorable="d"
+        Title="Drawing Rectangles" Height="750" Width="1227"
+        
+        
+        >
+     <Grid Margin="0,0,0,1">
+          <Grid.ColumnDefinitions>
+               <ColumnDefinition Width="19*"/>
+               <ColumnDefinition Width="231*"/>
+          </Grid.ColumnDefinitions>
+          <Button x:Name="open_file_btn" Content="Open Image" HorizontalAlignment="Left" Margin="951,69,0,0" VerticalAlignment="Top" Click="Open_file_btn_Click" Height="32" Width="102" Panel.ZIndex="2" Grid.Column="1"/>
+          <Button x:Name="save_as_btn" Content="Save As" HorizontalAlignment="Left" Margin="952,132,0,0" VerticalAlignment="Top" Height="32" Width="102" Click="Save_image" Panel.ZIndex="2" Grid.Column="1"/>
+          <Button x:Name="color_btn" Content="Color Picker" Grid.Column="1" HorizontalAlignment="Left" Margin="951,200,0,0" VerticalAlignment="Top" Height="32" Width="102" Click="color_btn_Click"/>
+          <Button x:Name="controls_help_btn" Content="Controls Help" Grid.Column="1" HorizontalAlignment="Left" Margin="952,572,0,0" VerticalAlignment="Top" Height="32" Width="102" Click="Help_Information"/>
+          <Border x:Name="canvas_border" BorderThickness="2" BorderBrush="Black" Height="{Binding Height, ElementName=custom_image}" Width="{Binding Width, ElementName=custom_image}" Panel.ZIndex="1" Margin="64,69,256,69" Grid.ColumnSpan="2">
+               <Canvas x:Name="main_canvas" Height="{Binding Height, ElementName=custom_image}" Width="{Binding Width, ElementName=custom_image}" MouseDown="Canvas_mouse_down" MouseMove="Canvas_mouse_move" MouseUp="Canvas_mouse_up" MouseRightButtonDown="Delete_selected_rect"  IsHitTestVisible="True" ClipToBounds="True" Margin="0,-2,0,-2" HorizontalAlignment="Center">
+                    <Image Name="custom_image" Height="571" Width="891" Canvas.Left="3" />
+               </Canvas>
+          </Border>
+          
+
+     </Grid>
+</Window>
